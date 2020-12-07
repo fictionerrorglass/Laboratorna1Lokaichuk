@@ -1,1 +1,2 @@
-# Laboratorna1Lokaichuk
+# Laboratorna
+
